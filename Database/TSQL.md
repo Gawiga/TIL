@@ -1,7 +1,11 @@
 # Sumário
 - [Índice](#Índice)
+- [Função](#Função)
+- [Cursor](#Cursor)
+- [Artigos](#Artigos)
 
-## Índice(https://docs.microsoft.com/pt-br/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
+# Índice
+- [Índices e Cluster](https://docs.microsoft.com/pt-br/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-2017)
 
 Um índice é uma estrutura em disco associada a uma tabela, contém chaves que são armazenadas em uma estrutura para **localizar** as linhas associadas aos **valores chave de forma rápida e eficaz**.
 
@@ -32,7 +36,9 @@ Os índices **são criados automaticamente** quando as restrições *PRIMARY KEY
 
 [Guia de Arquitetura e Design de Indexes](https://docs.microsoft.com/pt-br/sql/relational-databases/sql-server-index-design-guide)
 
-# [Funções](https://docs.microsoft.com/pt-BR/sql/t-sql/functions/functions?view=sql-server-2017)
+# Função
+
+- [Funcões](https://docs.microsoft.com/pt-BR/sql/t-sql/functions/functions?view=sql-server-2017)
 - Funções podem ser [determínisticas ou não determinísticas](https://docs.microsoft.com/pt-BR/sql/relational-databases/user-defined-functions/deterministic-and-nondeterministic-functions?view=sql-server-2017)
 
 ## [Funções de agregação](https://docs.microsoft.com/pt-BR/sql/t-sql/functions/aggregate-functions-transact-sql?view=sql-server-2017)
@@ -48,10 +54,9 @@ ex: **AVG()** | **COUNT()** | **MAX()** | **SUM()** | **MIN()**
 
 ex: **CEILING()** | **ROUND()** | **SIN()** | **TAN()** | **RAND()**
 
+## Cursor 
 
-# [ELEMENTOS DA LINGUAGEM](https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/language-elements-transact-sql)
-
-## [CURSORES](https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/cursors-transact-sql)
+- [CURSORES](https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/cursors-transact-sql)
 FETCH
 - Pega um número de linhas
 - Tem que ter o order by e o offset
@@ -73,9 +78,12 @@ Determina o particionamento e ordenação de um conjuntos de linahs antes da apl
 
 ------------------------
 
+
+# Artigos 
+
 ## Artigos em Português
 
 
 ## Artigos em Inglês
-
+- [Elementos da Linguagem](https://docs.microsoft.com/pt-br/sql/t-sql/language-elements/language-elements-transact-sql)
 - [Blog do Sommarskog](http://www.sommarskog.se/)

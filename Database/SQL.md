@@ -1,0 +1,5 @@
+=== Equivalentes === 
+
+|TSQL|PLSQL|PostgreSQL|
+|---|---|---|
+|   |   |   |

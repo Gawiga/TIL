@@ -15,3 +15,6 @@ Sacrifica-se um pouco da **Disponibilidade** em troca de canais de stream, mante
 [KSQL Introduction](https://www.youtube.com/watch?v=C-rUyWmRJSQ)
 KSQL facilita muito a utilização dos logs do KSQL e a criação desses streams.
 O streams são em tempo real e conseguem ser manipulados para exibir a informação desejada.
+
+## Links
+https://kafka.apache.org/

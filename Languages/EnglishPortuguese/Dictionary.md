@@ -5,3 +5,7 @@
 - `debris`: **detritos**
 - `overwhelming`: **esmagador/irresistível/opressivo**
 - `latches` **travas/trinco**
+- `throughput` **taxa de transferência**
+- `latches` **travas/trinco**
+- `sew` **costurar**
+- `rend` **rasgar**
